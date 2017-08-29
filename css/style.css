@@ -4,4 +4,7 @@
 .th, td {
     border-bottom: 1px solid #ddd;
 }
-
+.right {
+    height: 300px;
+    position: relative; 
+}
