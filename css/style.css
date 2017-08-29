@@ -1,3 +1,7 @@
 #hulahula {color:LemonChiffon; font-size:125px;
 }
-#nene {font-size:35px; color:black; border-style:dotted;}
+#nene {font-size:35px; color:black; border-style:dotted; width:175px}
+.th, td {
+    border-bottom: 1px solid #ddd;
+}
+
