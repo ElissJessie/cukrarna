@@ -1,4 +1,4 @@
-#hulahula {color:LemonChiffon; font-size:125px;
+#hulahula {color:black; font-size:125px;
 }
 #nene {font-size:35px; color:black; border-style:dotted; width:175px}
 .th, td {
@@ -11,3 +11,9 @@
 .list {font-size:25px;}
 h3 {font-size:40px;
 }
+h4 {font-size:20px;
+}
+.dorty-images {	height: auto;
+		wight:auto;
+		max-wight:300px;
+		max-height:300px; }
