@@ -8,7 +8,7 @@
     height: 300px;
     position: relative; 
 }
-.list {font-size:25px;}
+.list {font-size:35px;}
 h3 {font-size:40px;
 }
 h4 {font-size:20px;
@@ -19,5 +19,18 @@ h4 {font-size:20px;
 				max-height:300px; }
 .logo-images {	height: auto;
 				wight:auto;
-				max-wight:200px;
+				max-wight:200px; 
 				max-height:200px; }
+
+			
+#pozadimoje {background-color:#ffffe6;
+			link:white;}
+#patickamoje {background-color:#1a1a1a;
+			color:white; 
+			font-size:1px}
+
+.logo2-images {	height: auto;
+				wight:auto;
+				max-wight:150px; 
+				max-height:150px; }
+		
