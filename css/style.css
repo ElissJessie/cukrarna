@@ -23,10 +23,12 @@ h4 {font-size:20px;
 				max-height:200px; }
 
 			
-#pozadimoje {background-color:#ffffe6;}
+#pozadimoje {background-color:#ffffe6;
+			font-family:bodoni MT;}
 #patickamoje {background-color:#1a1a1a;
 			color:white; 
 			font-size:1px}
+#patickamoje a  {link:#ffffe6}
 
 .logo2-images {	height: auto;
 				wight:auto;
@@ -39,3 +41,4 @@ a:visited {
 a:hover {
     color:black;
 }
+#kontakt {font-size:20px;}
