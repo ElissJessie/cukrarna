@@ -25,10 +25,12 @@ h4 {font-size:20px;
 			
 #pozadimoje {background-color:#ffffe6;
 			font-family:bodoni MT;}
+
 #patickamoje {background-color:#1a1a1a;
 			color:white; 
-			font-size:1px}
-#patickamoje a  {link:#ffffe6}
+			font-size:1px;}
+			
+}
 
 .logo2-images {	height: auto;
 				wight:auto;
@@ -49,5 +51,12 @@ a:hover {
 #ahoj{font-size:100px;
 }
 
-
+  
+.baf 		{	position: absolute;
+			  right: 0;
+			  bottom: 0;
+			  left: 0;
+			  padding: 1rem;
+			  background-color: #efefef;
+			  text-align: center;}
 
