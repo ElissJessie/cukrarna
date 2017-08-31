@@ -38,10 +38,10 @@ h4 {font-size:20px;
 				max-height:150px; }
 a:link {color:white;}
 a:visited {
-    color:black;
+    color:gray;
 }
 a:hover {
-    color:black;
+    color:gray;
 }
 #kontakt {font-size:20px;}
 
@@ -59,4 +59,3 @@ a:hover {
 			  padding: 1rem;
 			  background-color: #efefef;
 			  text-align: center;}
-
