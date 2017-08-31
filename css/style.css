@@ -8,7 +8,7 @@
     height: 300px;
     position: relative; 
 }
-.list {font-size:25px;}
+.list {font-size:35px;}
 h3 {font-size:40px;
 }
 h4 {font-size:20px;
@@ -19,5 +19,11 @@ h4 {font-size:20px;
 				max-height:300px; }
 .logo-images {	height: auto;
 				wight:auto;
-				max-wight:200px;
+				max-wight:200px; 
 				max-height:200px; }
+.jumbotron { position: center;
+			padding-top:0px;
+			width:100;
+			display:block; 
+			margin-left:auto; 
+			margin-right:auto; }
